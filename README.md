@@ -551,6 +551,6 @@ plt.show()
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus, from the given data Feature  Encoding and Transformation process is successfully performed.
 
        
